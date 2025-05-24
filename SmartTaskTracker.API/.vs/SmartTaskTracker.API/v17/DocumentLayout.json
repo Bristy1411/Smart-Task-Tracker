@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\dtos\\usersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:dtos\\usersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\dtos\\userprofileupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:dtos\\userprofileupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|e:\\angular and .net projects\\smart task tracker\\smarttasktracker.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575667C1-EAE9-489D-8996-C0E2BBC54A25}|SmartTaskTracker.API.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:51:41.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:18:27.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:16:19.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:57:10.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwEAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:14:23.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:10:33.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:24:12.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:05:54.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:12:14.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T13:00:24.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserSummaryDTO.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\UserSummaryDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserSummaryDTO.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\UserSummaryDTO.cs",
+              "RelativeToolTip": "DTOs\\UserSummaryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:22:58.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserProfileUpdateDTO.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\UserProfileUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserProfileUpdateDTO.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\UserProfileUpdateDTO.cs",
+              "RelativeToolTip": "DTOs\\UserProfileUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:34:36.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ChangePasswordDTO.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "DTOs\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:35:02.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDTO.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:01:52.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\Angular and .NET projects\\Smart Task Tracker\\SmartTaskTracker.API\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:04:41.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

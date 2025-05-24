@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VKn5Plh8lDnRGdXLpSu/WW7PvjaokLWM1Tks3SXEdfY=",
+  "Source": "SmartTaskTracker.API",
+  "BasePath": "_content/SmartTaskTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
